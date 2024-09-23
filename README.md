@@ -33,4 +33,7 @@ Please feel free to use this project to better understand RISC-V pipeline archit
 Since this project was primarily educational, contributions are not expected, but feel free to open issues or create pull requests if you have suggestions or improvements. Feedback is welcome!
 
 ## Disclaimer
-This implementation is meant for educational purposes and may not cover all edge cases or optimizations found in production-grade processors.
+
+This implementation is meant for educational purposes and may not cover all edge cases or optimizations found in production-grade processors. **There are known bugs** with the write-back stage, and there may be other bugs that have not been addressed, as this project was completed over a year ago. 
+
+Please use the project for learning and experimentation, but be aware that it may not function perfectly in all cases.
