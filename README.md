@@ -11,6 +11,7 @@ This project is an implementation of a **RISC-V processor** with a **standard 5-
 5. **Write Back (WB)**
 
 ![RISC-V Pipeline Diagram](assets/pipeline.png)
+
 The project was developed as part of a school assignment to better understand the inner workings of RISC-V architecture and pipeline design principles.
 
 ## Features
