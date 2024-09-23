@@ -19,3 +19,14 @@ The project was developed as part of a school assignment to better understand th
 - **Hazard detection**: Simple hazard detection and forwarding logic to handle data dependencies.
 - **Branch prediction**: Includes a basic branch prediction mechanism.
 - **Memory and register file access**: Supports memory access instructions and register file operations.
+
+## License and Usage
+This project was developed as a school assignment, and while the code is provided free to use for learning and reference, it is strictly prohibited to use this code or its derivatives for any academic submission or coursework. Doing so would be considered academic dishonesty and a violation of school policies.
+
+Please feel free to use this project to better understand RISC-V pipeline architecture, but respect academic integrity by ensuring it is not submitted for grades.
+
+## Contributions
+Since this project was primarily educational, contributions are not expected, but feel free to open issues or create pull requests if you have suggestions or improvements. Feedback is welcome!
+
+## Disclaimer
+This implementation is meant for educational purposes and may not cover all edge cases or optimizations found in production-grade processors.
